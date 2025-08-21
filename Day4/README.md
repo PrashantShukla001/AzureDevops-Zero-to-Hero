@@ -3,8 +3,7 @@
 
 ## Check out the video below for Day4 👇
 
-[![Day4/16 - Azure DevOps Build Pipeline](https://img.youtube.com/vi/3Nv-FzzrqYU/sddefault.jpg)](https://youtu.be/3Nv-FzzrqYU)
-
+[![Day4/16 - Azure DevOps Build Pipeline]
 ## Steps to set the infrastructure
 - Login to VSCode or any other IDE of your choice
 - Run the below commands to download the application code
@@ -26,7 +25,6 @@
 
 - Understand the use of service connection and service principal
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9c20aa32-3932-4d1c-b3a9-0abdcd93f5c7)
 
 
 **Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CACHE_OPTION=Never to disable all file caching**
