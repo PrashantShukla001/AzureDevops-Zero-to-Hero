@@ -10,7 +10,7 @@
   ```
   mkdir day4_youtube_clone; cd day4_youtube_clone
   git init
-  git clone https://github.com/piyushsachdeva/Youtube_Clone
+  git clone [https://github.com/PrashantShukla001/Youtube_Clone]
   ```
 - Create a project in Azure DevOps for Day4 and push the code by running the below commands on VSCode:
   ```
