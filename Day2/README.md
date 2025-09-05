@@ -2,7 +2,6 @@
 
 # Checkout the video below for Day2
 
-[![Azure DevOps Boards](https://img.youtube.com/vi/vjqhGJMFhFI/sddefault.jpg)](https://youtu.be/vjqhGJMFhFI)
 
 ## Azure DevOps Demo Generator
 **Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.**
@@ -11,17 +10,14 @@
 
 2. Sign in using the Microsoft account associated with your Azure DevOps subscription.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/33feacfa-47bb-4861-b87d-d026e1eb36ee)
 
 3. Accept the permission requests for accessing your subscription.
 
 4. Select the PartsUnlimited template and click Select Template.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9bb9e1bd-cee1-4f18-ac5d-36163b36552e)
 
 5. Click Create Project and wait for the process to complete.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b27fc6a5-0c6c-4cde-8ad9-8d11d935d7f5)
 
 
 ## Azure Boards Overview 
@@ -36,13 +32,11 @@ A work item can track all types of activities. It could be a
 *  An issue
 or anything that we can assign to people and keep track of the progress.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/4600d0ae-031b-44d2-bbae-58de5abc8620)
 
 ## Kanban Board 📃
 
 Kanban is a visual method for managing and optimizing work items. In simple terms, it is a visual board that helps teams keep track of their tasks and work more efficiently. It can be divided into multiple stages such as **todo, in-progress, and done**.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/3f515a9f-8757-4348-84a4-e127b2137342)
 
 ## Azure Boards Processes
 
@@ -56,7 +50,6 @@ The basic process contains three work item types:
 - Issues: Further divide your Epics into Issues such as Homepage, about us page, secure sign-in
 - Task: Tasks are the smallest amount of work that can be assigned to someone, for example, designing a homepage header, standardizing fonts, and fixing the homepage CSS to make it mobile responsive.
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b271128e-b3e5-422c-81e4-14321916fa15)
 
 
 <h1>Basic Azure Board</h1>
@@ -110,7 +103,6 @@ The basic process contains three work item types:
 ## Scrum process
 **A scrum-based process typically involves below work items:**
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/64189a73-f4e3-40ce-b60a-eea09536a25c)
 
 1. **User Stories:**
    - Represents a small piece of functionality from an end user's perspective.
